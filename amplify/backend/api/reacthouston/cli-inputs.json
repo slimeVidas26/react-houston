@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reacthouston",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Projects\\AWS\\REACT\\react-houston\\amplify\\backend\\api\\reacthouston\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
