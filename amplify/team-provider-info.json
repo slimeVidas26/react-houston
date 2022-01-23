@@ -10,6 +10,11 @@
       "StackName": "amplify-reacthouston-dev-203646",
       "StackId": "arn:aws:cloudformation:us-east-1:337360241061:stack/amplify-reacthouston-dev-203646/43bf2c00-7bb2-11ec-ad0e-0af7970f7c1d",
       "AmplifyAppId": "d3odkpmbc84omi"
+    },
+    "categories": {
+      "auth": {
+        "reacthouston3626fb20": {}
+      }
     }
   }
 }
